@@ -1,0 +1,18 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background: red;
+}
+#progress-line {
+  width: 5%;
+  height: 6px;
+  background: #fff;
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+}
+#wrapper {
+  color: #fff;
+}
